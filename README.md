@@ -63,7 +63,5 @@ This project demonstrates practical skills in:
 
 ## 📬 Connect with Me
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
-
+* LinkedIn: https://www.linkedin.com/in/tarun-kumar-sengar-21609a284/
 ---
