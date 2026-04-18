@@ -64,4 +64,5 @@ This project demonstrates practical skills in:
 ## 📬 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/tarun-kumar-sengar-21609a284/
+* GitHub: [https://github.com/tarun-hash-2005]
 ---
