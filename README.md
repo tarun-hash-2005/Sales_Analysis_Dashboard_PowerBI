@@ -18,6 +18,18 @@ It provides deep insights into sales performance, profit trends, customer segmen
 
 ---
 
+🔥 Business Problem
+
+Retail companies often struggle to:
+
+* Track sales performance across regions and time
+* Identify high-performing products and segments
+* Understand profit distribution and discount impact
+* Make data-driven decisions due to scattered data
+
+
+---
+
 ## 🛠️ Tools & Technologies
 
 * Power BI
